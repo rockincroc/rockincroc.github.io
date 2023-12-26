@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Electrical and Computer Engineering, Georgia Institute of Technology, 2027 (expected)
+* Master's in Electrical and Computer Engineering, Georgia Institute of Technology, 2024 (expected)
+* Bachelor's in Electrical Engineering, Indian Institute of Technology, 2022
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Work experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Summer 2021: Internship
+  * Oracle Cloud Infrastructure (OCI)
+  * *Extended a full-time offer by Oracle India Pvt. Ltd. following remarkable internship performance*
+  * Integrated a methodology to record order payloads, alongside parsing and storing error responses by investigating pre-existing order booking pathways of rent requests 
+  * Developed an i/o interface to visualise and record web-scraped details from submissions to Jira
+
+* Summer 2020: Internship
+  * SunEdison Infra (Solar PV company)
+  * Coalesced academic articles, publications and technical guidebooks concerning clean-energy linked smart-grid and micro-grid architectures, low-latency control mechanisms, hardware structures and government policies
+    
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
