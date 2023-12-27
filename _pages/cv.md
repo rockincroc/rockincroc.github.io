@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+View detailed CV [here](/files/CV_AadeshAnilMadnaik.pdf).
+
 Education
 ======
 * Ph.D in Electrical and Computer Engineering, Georgia Institute of Technology, 2027 (expected)
