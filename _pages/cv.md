@@ -25,16 +25,10 @@ Publications
 
 Work experience
 ======
-* Summer 2021: Internship
-  * Oracle Cloud Infrastructure (OCI)
+* Internship at **Oracle Cloud Infrastructure (OCI)** [Summer 2021]
   * *Extended a full-time offer by Oracle India Pvt. Ltd. following remarkable internship performance*
   * Integrated a methodology to record order payloads, alongside parsing and storing error responses by investigating pre-existing order booking pathways of rent requests 
   * Developed an i/o interface to visualise and record web-scraped details from submissions to Jira
 
-* Summer 2020: Internship
-  * SunEdison Infra (Solar PV company)
+* Internship at **SunEdison Infra (Solar PV company)** [Summer 2020]
   * Coalesced academic articles, publications and technical guidebooks concerning clean-energy linked smart-grid and micro-grid architectures, low-latency control mechanisms, hardware structures and government policies
-    
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

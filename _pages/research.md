@@ -14,3 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<br>
+# Other Unpublished Research
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
