@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View detailed CV [here](/files/CV_AadeshAnilMadnaik.pdf).
+View detailed CV [here](/files/CV_AadeshMadnaik.pdf) (severely out of date).
 
 Education
 ======
