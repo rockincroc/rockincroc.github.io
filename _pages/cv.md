@@ -33,3 +33,9 @@ Work experience
 
 * Internship at **SunEdison Infra (Solar PV company)** [Summer 2020]
   * Coalesced academic articles, publications and technical guidebooks concerning clean-energy linked smart-grid and micro-grid architectures, low-latency control mechanisms, hardware structures and government policies
+
+Coursework
+======
+* **Fall 2023**: ECE 8803 (Generative and Geometric Deep Learning), CS 8803 (Mobile Computing and IoT)
+* **Spring 2023**: ECE 8803 (Advanced Wireless Networks), ECE 6272 (Radar Signal Processing)
+* **Fall 2022**: ECE 6604 (Personal and Mobile Communications), ECE 6610 (Wireless Networks)
