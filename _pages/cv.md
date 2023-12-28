@@ -15,11 +15,12 @@ Education
 ======
 * Ph.D in Electrical and Computer Engineering, Georgia Institute of Technology, 2027 (expected)
 * Master's in Electrical and Computer Engineering, Georgia Institute of Technology, 2024 (expected)
-* Bachelor's in Electrical Engineering, Indian Institute of Technology, 2022
+* Bachelor's with *Honours* in Electrical Engineering, Indian Institute of Technology, 2022
+  * with *Minor* in Computer Science and Engineering
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
