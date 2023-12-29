@@ -37,5 +37,6 @@ Work experience
 Coursework
 ======
 * **Fall 2023**: ECE 8803 (Generative and Geometric Deep Learning), CS 8803 (Mobile Computing and IoT)
+* **Summer 2023**: ECE 6601 (Random Processes)
 * **Spring 2023**: ECE 8803 (Advanced Wireless Networks), ECE 6272 (Radar Signal Processing)
 * **Fall 2022**: ECE 6604 (Personal and Mobile Communications), ECE 6610 (Wireless Networks)
