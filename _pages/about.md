@@ -13,6 +13,4 @@ Broadly, I am interested in wireless networks and sensing. In particular, I am i
 
 Previously, I completed my Bachelor's Degree with honours in [Electrical Engineering](https://www.ee.iitb.ac.in/web/index.php) from [Indian Institute of Technology (IIT) Bombay](https://www.iitb.ac.in/). For my undergraduate thesis, I worked on online decision making geared towards edge computing in stochastic and adversarial environments under the supervision of [Prof. Sharayu Moharir](https://sites.google.com/view/sharayu-homepage/home). 
 
-<br>
-
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=54yjhwnatep&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
