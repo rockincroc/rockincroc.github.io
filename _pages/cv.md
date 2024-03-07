@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View detailed CV [here](/files/CV_AadeshMadnaik_20231228.pdf). *Last updated on Dec 28, 2023*.
+View detailed CV [here](/files/CV_AadeshMadnaik_20240306.pdf). *Last updated on Mar 06, 2023*.
 
 Education
 ======
@@ -36,6 +36,7 @@ Work experience
 
 Coursework
 ======
+* **Spring 2024**: ECE 6250 (Advanced Digital Signal Processing), ECE 6360 (Microwave Design)
 * **Fall 2023**: ECE 8803 (Generative and Geometric Deep Learning), CS 8803 (Mobile Computing and IoT)
 * **Summer 2023**: ECE 6601 (Random Processes)
 * **Spring 2023**: ECE 8803 (Advanced Wireless Networks), ECE 6272 (Radar Signal Processing)
