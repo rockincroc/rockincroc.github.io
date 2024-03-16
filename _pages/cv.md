@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View detailed CV [here](/files/CV_AadeshMadnaik_20240306.pdf). *Last updated on Mar 06, 2023*.
+View detailed CV [here](/files/CV_AadeshMadnaik_20240316.pdf). *Last updated on Mar 16, 2023*.
 
 Education
 ======
