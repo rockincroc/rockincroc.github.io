@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-View detailed CV [here](/files/CV_AadeshMadnaik_20240316.pdf). *Last updated on Mar 16, 2023*.
+View detailed CV [here](/files/CV_AadeshMadnaik_20240708.pdf). *Last updated on Jul 8, 2024*.
 
 Education
 ======
 * Ph.D in Electrical and Computer Engineering, Georgia Institute of Technology, 2027 (expected)
-* Master's in Electrical and Computer Engineering, Georgia Institute of Technology, 2024 (expected)
+* Master's in Electrical and Computer Engineering, Georgia Institute of Technology, 2024
 * Bachelor's with *Honours* in Electrical Engineering, Indian Institute of Technology, 2022
   * with *Minor* in Computer Science and Engineering
 
@@ -27,14 +27,10 @@ Publications
 Work experience
 ======
 * Internship at **Oracle Cloud Infrastructure (OCI)** [Summer 2021]
-  * *Extended a full-time offer by Oracle India Pvt. Ltd. following remarkable internship performance*
-  * Integrated a methodology to record order payloads, alongside parsing and storing error responses by investigating pre-existing order booking pathways of rent requests 
-  * Developed an i/o interface to visualise and record web-scraped details from submissions to Jira
 
 * Internship at **SunEdison Infra (Solar PV company)** [Summer 2020]
-  * Coalesced academic articles, publications and technical guidebooks concerning clean-energy linked smart-grid and micro-grid architectures, low-latency control mechanisms, hardware structures and government policies
 
-Coursework
+Coursework 
 ======
 * **Spring 2024**: ECE 6250 (Advanced Digital Signal Processing), ECE 6360 (Microwave Design)
 * **Fall 2023**: ECE 8803 (Generative and Geometric Deep Learning), CS 8803 (Mobile Computing and IoT)
