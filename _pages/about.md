@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Aadesh Madnaik, a second-year PhD student in the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at Georgia Tech, Atlanta. Currently, I am a member of the [MĀRGA](https://marga.ece.gatech.edu/) research group which is directed by [Prof. Karthikeyan Sundaresan](https://karthik.ece.gatech.edu/).
+I am Aadesh Madnaik, a third-year PhD student in the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at Georgia Tech, Atlanta. Currently, I am a member of the [MĀRGA](https://marga.ece.gatech.edu/) research group which is directed by [Prof. Karthikeyan Sundaresan](https://karthik.ece.gatech.edu/).
 
 Broadly, I am interested in wireless networks and sensing. In particular, I am interested in building systems that aim to solve fundamental challenges in the wireless domain. This involves developing algorithms with robust guarantees and prototyping hardware which can leverage these algorithms. More information about my work can be found [here](/research/). 
 

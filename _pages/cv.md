@@ -32,6 +32,7 @@ Work experience
 
 Coursework 
 ======
+* **Fall 2024**: CS 7643 (Deep Learning), ECE 6122 (Advanced Programming Techniques)
 * **Spring 2024**: ECE 6250 (Advanced Digital Signal Processing), ECE 6360 (Microwave Design)
 * **Fall 2023**: ECE 8803 (Generative and Geometric Deep Learning), CS 8803 (Mobile Computing and IoT)
 * **Summer 2023**: ECE 6601 (Random Processes)
