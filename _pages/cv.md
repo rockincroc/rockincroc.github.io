@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View detailed CV [here](/files/CV_AadeshMadnaik_20240708.pdf). *Last updated on Jul 8, 2024*.
+Email `aadesh [dot] madnaik [at] gmail [dot] com` for a detailed CV.
 
 Education
 ======
@@ -26,9 +26,11 @@ Publications
 
 Work experience
 ======
-* Internship at **Oracle Cloud Infrastructure (OCI)** [Summer 2021]
+* Internship at **Qualcomm Inc., San Diego** [Summer 2025]
 
-* Internship at **SunEdison Infra (Solar PV company)** [Summer 2020]
+* Internship at **Oracle Cloud Infrastructure (OCI), Bangalore** [Summer 2021]
+
+* Internship at **SunEdison Infra (Solar PV company), Chennai** [Summer 2020]
 
 Coursework 
 ======
