@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Research Work"
+title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 {% if author.googlescholar %}
@@ -11,12 +11,15 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
+<div class="research-list">
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include research-card.html %}
 {% endfor %}
+</div>
 
-<br>
-# Other Unpublished Research
+# Exploratory projects
+<div class="research-list research-list--exploratory">
 {% for post in site.portfolio reversed %}
-  {% include archive-single.html %}
+  {% include research-card.html %}
 {% endfor %}
+</div>

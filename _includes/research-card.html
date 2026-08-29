@@ -1,0 +1,31 @@
+{% include base_path %}
+
+{% assign card_image = post.image | default: post.header.teaser %}
+{% assign card_title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+
+<article class="research-card{% if include.compact %} research-card--compact{% endif %}">
+  {% if card_image %}
+    <a class="research-card__media" href="{{ base_path }}{{ post.url }}" aria-label="View {{ post.title }}">
+      <img src="{% if card_image contains '://' %}{{ card_image }}{% else %}{{ card_image | prepend: base_path }}{% endif %}" alt="{{ post.image_alt | default: post.title }}" loading="lazy">
+    </a>
+  {% else %}
+    <a class="research-card__media research-card__media--placeholder" href="{{ base_path }}{{ post.url }}" aria-label="View {{ post.title }}">
+      <span aria-hidden="true"></span>
+    </a>
+  {% endif %}
+
+  <div class="research-card__body">
+    <p class="research-card__meta">
+      <span>{{ post.venue | default: "Research project" }}</span>
+      {% if post.date %}<span>{{ post.date | date: "%Y" }}</span>{% endif %}
+    </p>
+    <h2><a href="{{ base_path }}{{ post.url }}">{{ card_title }}</a></h2>
+    {% if post.excerpt %}
+      <div class="research-card__excerpt">{{ post.excerpt | markdownify | strip_html | truncatewords: 45 }}</div>
+    {% endif %}
+    <div class="research-card__links">
+      <a href="{{ base_path }}{{ post.url }}">Project details <span aria-hidden="true">→</span></a>
+      {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper <span aria-hidden="true">↗</span></a>{% endif %}
+    </div>
+  </div>
+</article>

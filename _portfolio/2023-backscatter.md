@@ -2,6 +2,8 @@
 title: "Backscatter for Low-power IoT Environmental Sensing"
 excerpt: "In this project, we built an ultra-low power backscatter device for monitoring Atlanta's urban heat islands, using digital communications techniques to extend the range between the tag and transmitter/receiver by sacrificing throughput. We explore digital range-increasing techniques such as forward error correction (FEC) and investigate low-power digitization and signal generation. We build a system consisting of a co-located transmitter and receiver capable of reading temperature data from a single backscatter tag."
 collection: portfolio
+image: '/images/2023-backscatter.png'
+image_alt: 'Low-power backscatter sensing prototype'
 ---
 
 ### Supervised by [Prof. Ashutosh Dhekne](https://faculty.cc.gatech.edu/~dhekne/)

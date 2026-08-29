@@ -1,11 +1,13 @@
 ---
 title: "Practical Design and Orchestration of Frequency-Shifting RIS for NLoS mmWave Sensing"
 collection: publications
-permalink: /research/2025-RIS-sensing
+permalink: /research/2025-RIS-sensing/
 excerpt: 'mmWave radar powers next-generation sensing in ISAC systems but struggles in non-line-of-sight environments. PRISM breaks through these limits, using RIS-based spatial modulation to turn angular cues into frequency shifts—boosting resolution without heavy computation or tight synchronization. The result: faster, more adaptable radar sensing that works where others fail.'
 date: 2025-07-20
 venue: 'ACM MobiHoc'
 paperurl: 'https://dl.acm.org/doi/10.1145/3704413.3764440'
+image: '/images/2025-rissensing-scenario1.png'
+image_alt: 'PRISM frequency-shifting RIS sensing scenario'
 # citation: 'Aadesh Madnaik and Karthikeyan Sundaresan. 2025. Practical Design and Orchestration of Frequency-Shifting RIS for NLoS mmWave Sensing. In Proceedings of the Twenty-sixth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc 2025).'
 ---
 <center><img src="/images/2025-rissensing-scenario1.png" alt="Scenario-1" width="350"/><img src="/images/2025-rissensing-scenario2.png" alt="Scenario-2" width="350"/></center>

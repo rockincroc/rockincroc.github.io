@@ -1,16 +1,15 @@
 ---
+layout: home
 permalink: /
-title: "About me"
+title: "About"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am Aadesh Madnaik, a PhD student in the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at Georgia Tech, Atlanta. Currently, I am a member of the [MĀRGA](https://marga.ece.gatech.edu/) research group which is directed by [Prof. Karthikeyan Sundaresan](https://karthik.ece.gatech.edu/).
+I am a PhD student in the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at Georgia Tech and a member of the [MĀRGA](https://marga.ece.gatech.edu/) research group, directed by [Prof. Karthikeyan Sundaresan](https://karthik.ece.gatech.edu/).
 
-Broadly, I am interested in wireless networks and sensing. In particular, I am interested in building systems that aim to solve fundamental challenges in the wireless domain. This involves developing algorithms with robust guarantees and prototyping hardware which can leverage these algorithms. More information about my work can be found [here](/research/). 
+My work sits at the intersection of wireless networks and sensing. I build systems that pair algorithms with robust guarantees and hardware prototypes that make those ideas practical.
 
-Previously, I completed my Bachelor's Degree with honours in [Electrical Engineering](https://www.ee.iitb.ac.in/web/index.php) from [Indian Institute of Technology (IIT) Bombay](https://www.iitb.ac.in/). For my undergraduate thesis, I worked on online decision making geared towards edge computing in stochastic and adversarial environments under the supervision of [Prof. Sharayu Moharir](https://sites.google.com/view/sharayu-homepage/home). 
-
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=qgRmcE7BmBJkq028tfHLVZb1MqGRYSBi0rxmfg9AKWM&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+Previously, I earned my Bachelor's degree with honours in [Electrical Engineering](https://www.ee.iitb.ac.in/web/index.php) from [IIT Bombay](https://www.iitb.ac.in/), where my thesis explored online decision-making for edge computing.
