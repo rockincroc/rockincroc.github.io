@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<main class="home" id="main-content">
+  <section class="profile-hero" aria-labelledby="profile-heading">
+    <div class="profile-hero__copy">
+      <p class="profile-hero__eyebrow">Wireless systems · sensing · algorithms</p>
+      <h1 id="profile-heading"><strong>Aadesh</strong> Madnaik</h1>
+      <p class="profile-hero__affiliation">
+        PhD researcher in Electrical and Computer Engineering at
+        <a href="https://www.gatech.edu/">Georgia Tech</a>.
+      </p>
+
+      <div class="profile-hero__bio">
+        {{ content }}
+      </div>
+
+      <div class="profile-hero__actions" aria-label="Profile links">
+        <a class="profile-link profile-link--primary" href="{{ base_path }}/research/">Explore research <span aria-hidden="true">→</span></a>
+        <a class="profile-link" href="{{ base_path }}/cv/">View CV</a>
+      </div>
+    </div>
+
+    <aside class="profile-card" aria-label="Contact information">
+      <img src="{{ base_path }}/images/{{ site.author.avatar }}" alt="{{ site.author.name }}">
+      <div class="profile-card__details">
+        <p>{{ site.author.bio }}</p>
+        <p class="profile-card__location"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ site.author.location }}</p>
+        <ul class="profile-card__social" aria-label="Social profiles">
+          {% if site.author.email %}<li><a href="mailto:{{ site.author.email }}" aria-label="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a></li>{% endif %}
+          {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}" aria-label="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a></li>{% endif %}
+          {% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" aria-label="LinkedIn"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a></li>{% endif %}
+          {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}" aria-label="Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i></a></li>{% endif %}
+          {% if site.author.orcid %}<li><a href="{{ site.author.orcid }}" aria-label="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a></li>{% endif %}
+        </ul>
+      </div>
+    </aside>
+  </section>
+
+  <section class="selected-work" aria-labelledby="selected-work-heading">
+    <div class="section-heading">
+      <div>
+        <p class="section-heading__kicker">Selected work</p>
+        <h2 id="selected-work-heading">Recent research</h2>
+      </div>
+      <a href="{{ base_path }}/research/">All research <span aria-hidden="true">→</span></a>
+    </div>
+
+    <div class="research-list research-list--home">
+      {% for post in site.publications reversed limit:3 %}
+        {% include research-card.html compact=true %}
+      {% endfor %}
+    </div>
+  </section>
+</main>
